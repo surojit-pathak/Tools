@@ -1,0 +1,1 @@
+fabwrap_node_run_sudo_cmd "cat /etc/sysconfig/network" /tmp/hostlist
